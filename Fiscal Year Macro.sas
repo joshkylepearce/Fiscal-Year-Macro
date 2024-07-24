@@ -1,6 +1,6 @@
 /************************************************************************************
 ***** Program: 	Fiscal Year Macro	*****
-***** Author:	joshkylepearce      *****
+***** Author:	joshkylepearce      	*****
 ************************************************************************************/
 
 /************************************************************************************
@@ -20,7 +20,7 @@ Output Parameters:
 2.	end_date	- End date of the fiscal year in date9. format.
 
 Macro Usage:
-1.	The	fiscal reporting period varies in jursdictions worldwide. 
+1.	The fiscal reporting period varies in jursdictions worldwide. 
 	This macro is set to the U.S. fiscal year by default. 
 	If the user's fiscal year period is not consistent with the U.S., 
 	change the 01OCT & 30SEP to match the fiscal year of interest.
